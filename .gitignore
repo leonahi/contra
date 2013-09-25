@@ -10,6 +10,9 @@
 # Any file ending with .tmp will be ignored
 *.tmp
 
+# Any file ending with .zip will be ignored
+*.zip
+
 # Ignore any file inside SPND_Data directory
 SPND_Data/
 
